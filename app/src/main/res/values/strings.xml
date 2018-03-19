@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KotlinAndroid_P16_AlertDialog</string>
+    
+    <string name="button_positive">OK</string>
+    <string name="button_negative">Cancel</string>
+</resources>
